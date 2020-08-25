@@ -1,3 +1,4 @@
+// Template by SadGuy
 const { Client, MessageEmbed } = require('discord.js');
 const Discord = require('discord.js');
 const TOKEN = 'your_bot_token'
